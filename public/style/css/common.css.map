@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAC,CACG,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CAEd,SAAS,CACL,MAAM,CAAE,IAAI,CAEhB,KAAK,CACD,UAAU,CAAE,IAAI,CAEpB,CAAC,CACG,eAAe,CAAE,IAAI",
+"sources": ["../srccss/common.scss"],
+"names": [],
+"file": "common.css"
+}
